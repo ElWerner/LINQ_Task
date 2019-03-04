@@ -1,0 +1,10 @@
+E:\epam-lab\Task\Task\bin\Debug\Task.exe.config
+E:\epam-lab\Task\Task\bin\Debug\Task.exe
+E:\epam-lab\Task\Task\bin\Debug\Task.pdb
+E:\epam-lab\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+E:\epam-lab\Task\Task\obj\Debug\Task.Properties.Resources.resources
+E:\epam-lab\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+E:\epam-lab\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+E:\epam-lab\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+E:\epam-lab\Task\Task\obj\Debug\Task.exe
+E:\epam-lab\Task\Task\obj\Debug\Task.pdb
